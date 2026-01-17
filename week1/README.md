@@ -15,16 +15,9 @@ By the end of this week, you will be able to:
 
 ## 🎓 Session Resources 
 
-### Lecture: [Why Data Science for Social Impact?]()
+- Lecture: [Why Data Science for Social Impact?]()
 
-### Tutorial: [Your First Python Steps](../notebooks/tutorial_python_basics.ipynb)
-
-**Hands-on Activities:**
-- Open and explore Google Colab
-- Write your first lines of Python code
-- Practice with variables and basic operations
-- Work with lists and dictionaries
-- Create a simple "hello world" program with social impact theme
+- Tutorial: [Your First Python Steps](../week1/notebooks/tutorial_python_basics.ipynb)
 
 ## 🏗️ Mini-Deliverable
 
