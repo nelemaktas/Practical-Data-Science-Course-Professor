@@ -2,12 +2,6 @@
 
 ## 🌍 Using Data Science to Tackle the World's Most Pressing Challenges
 
-## 📹 Our learning calendar — join Q&A sessions and workshops
-
-Want to stay updated on future events?
-
-👉 [Subscribe to our calendar](#) <!-- Add your calendar link here -->
-
 ## 🎓 What is this course about?
 
 Applied data science is already shaping how the world tackles pressing social challenges — from fighting discrimination, to allocating resources for refugees, to managing water scarcity in Africa. This course invites students from a wide range of backgrounds — social sciences, policy, business, environmental studies, or anyone simply curious about data — to learn how to use data science tools in ways that matter.
