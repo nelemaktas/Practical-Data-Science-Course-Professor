@@ -79,7 +79,6 @@ poetry.lock
 .env.production.local
 
 # Data files
-*.csv
 *.json
 *.xlsx
 *.parquet
