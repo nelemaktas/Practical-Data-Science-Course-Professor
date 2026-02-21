@@ -16,19 +16,28 @@ By the end of this week, you will be able to:
 
 ## 🎓 Session Resources
 
-- Lecture: Data Visualization I: Telling Stories with Plotly
+- Lecture: [Data Visualization I: Telling Stories with Plotly](https://docs.google.com/presentation/d/15ZDXg25nYkRzZROZodMW8JmPHcZ5Ce9XuOQuD1xYT74/edit?usp=sharing)
 - Tutorial: [Data Visualization I: Plotly Basics](notebooks/tutorial_plotly_basics.ipynb)
 
 ## 🏗️ Mini-Deliverable
 
-**Assignment:** Create a notebook that visualizes a real-world dataset using at least three different Plotly chart types. Your notebook should tell a clear story about the data, using interactive features and thoughtful design.
+**Assignment:** Create your own analysis of the global temperature dataset using at least three different Plotly chart types. Your notebook should reveal patterns, trends, and insights about global temperatures over time.
+
+**Dataset:** Average Monthly Surface Temperature (`data/average-monthly-surface-temperature.csv`)
 
 **Requirements:**
-1. **Load a dataset** relevant to social impact or public policy
-2. **Create at least three Plotly visualizations** (scatter, bar, line, etc.)
-3. **Customize your charts** for clarity and engagement
-4. **Add interactivity** (hover, zoom, filter)
-5. **Explain your visualizations** and the story they tell
+1. **Explore the temperature dataset** - Load and examine the data
+2. **Create at least three different visualizations** using different chart types (bar, line, scatter, box plots, etc.)
+3. **Customize your charts** with meaningful titles, labels, colors, and legends
+4. **Add interactivity** - Use hover information, zooming, or filtering features
+5. **Interpret your findings** - Write markdown cells explaining what patterns you discovered and what they reveal
+
+**Suggested Analyses:**
+- Compare average temperatures across different countries or regions
+- Track how temperatures have changed over specific time periods
+- Identify seasonal patterns in temperature data
+- Compare temperature ranges (min/max variations) across locations
+- Analyze temperature trends across decades
 
 ---
 **Next Week**: [Week 5: Organizing Projects with GitHub + AI Helpers](../week5/README.md)
