@@ -14,6 +14,12 @@ This midterm project visualises the relationship between climate vulnerability a
 - **Country Classification**: World Bank Country and Lending Groups
 
 ## Files
+Midterm_data visualisation_Climate risk_Nele Aktas.ipynb
+Climate risk data:
+  `readiness.csv`
+  `vulnerability.csv`
+GDP Data: `GDP data number format edited new.csv`
+Income group classification: `Country income groups World Bank edited.xlsx`
 
 
 ## Author
