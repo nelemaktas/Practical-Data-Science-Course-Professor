@@ -21,19 +21,24 @@ By the end of this week, you will be able to:
 - Lecture: [Organizing Projects with GitHub + AI Helpers](https://docs.google.com/presentation/d/17qr5r4V0jTdqEAMUix-iGxap5Bq_CKU6jnZ7Tg1pPyI/edit?slide=id.g3ca37c2d83d_0_8#slide=id.g3ca37c2d83d_0_8)
 - Tutorial: [GitHub Basics & AI-Assisted Coding](notebooks/tutorial_github_ai.ipynb)
 
-## 🏗️ Mini-Deliverable
+## 🏁 Mini-Deliverable
 
-**Assignment:** Create a GitHub repository for your data science project and commit your work with clear documentation. Use AI helpers to improve your code quality and documentation.
+Create a repository (or a local project folder) that includes:
 
-**Requirements:**
-1. **Create a GitHub repository** for your data science project
-2. **Organize your code** with proper folder structure
-3. **Write clear commit messages** documenting your progress
-4. **Create a comprehensive README.md** with project overview and setup instructions
-5. **Use an AI helper** (GitHub Copilot or ChatGPT) to assist with code completion, debugging, or documentation
-6. **Document your workflow** - show how AI helped improve your development process
+1. A clear `README.md` with project purpose and setup instructions
+2. A simple folder layout for code, notebooks, and data
+3. At least three meaningful commits with clear messages
+4. A short note describing how you used an AI helper (what it helped with and any edits you made)
+
+## 📁 Files (in this folder)
+
+```
+week5/
+├── README.md
+└── notebooks/
+	└── tutorial_github_ai.ipynb
+```
 
 ---
 
-**Next Week**: [Week 6: Working with External Data & APIs](../week6/README.md)
 **Previous Week**: [Week 4: Data Visualization I: Telling Stories with Plotly](../week4/README.md)
