@@ -30,3 +30,7 @@ ipywidgets>=7.7.0
 
 # Development Tools (Optional)
 python-dotenv>=0.20.0
+
+# Hugging Face Pre-trained Models
+transformers
+torch
