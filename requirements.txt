@@ -34,3 +34,5 @@ python-dotenv>=0.20.0
 # Hugging Face Pre-trained Models
 transformers
 torch
+
+ipywidgets
