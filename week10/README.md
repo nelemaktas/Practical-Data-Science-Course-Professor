@@ -16,12 +16,10 @@ By the end of this week, you will be able to:
 - Recognize and explain the limits of predictions
 
 ## 🎓 Session Resources
-
+- Lecture: [Week 9: Guide II: Interpreting Predictions & Time-Series Analysis](https://docs.google.com/presentation/d/1Nv_eOssK_a7YjJmDOKKg2N9lmINq3VaTssKibliS2JE/edit?usp=sharing)
 - Tutorial: [Guide II: Interpreting Predictions & Time-Series Analysis](notebooks/tutorial_timeseries_metrics.ipynb)
-
 
 ---
 
-**Previous Week**: [Week 9: Project Office Hours](../week9/README.md)
-
-**Course Overview**: [Main README](../README.md)
+**Previous Week**: [Week 9: Guide I – Predicting Outcomes](../week9/README.md)
+**Next Week**: [Week 11: TBA](../week11/README.md)
